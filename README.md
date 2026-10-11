@@ -6,6 +6,12 @@ dependency-update PRs give you this for a single package at a time;
 nothing gives you a clean "here's everything that moved" summary for a
 whole lockfile diff without reading a multi-thousand-line raw text diff.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
